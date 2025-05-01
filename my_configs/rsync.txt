@@ -1,0 +1,1 @@
+rsync -avv --info=progress2 --delete /home/command/Devs/ /mnt/backup/Yedek/Devs/

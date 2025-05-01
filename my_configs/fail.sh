@@ -1,0 +1,1 @@
+systemctl list-units --failed
